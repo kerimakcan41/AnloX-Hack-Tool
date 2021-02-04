@@ -9,5 +9,6 @@ Not: Eğer Sorunsuz Kullanmak İstiyorsanız Tamamen İndirmek Zorundasınız
 Nasıl Çalışır: Eğer İndirme Yaptıysanız "cd AnloX-Hack-Tool" Yazarak Klasörümüzün İçine Giriyoruz, Ardından "bash Hack-Tool.sh" Yazarak Çalıştırıyoruz
 Not: Paketimiz Çalışmıştır (Bunu Ben Sadece Termux'da Denedim Ve Başarılı Şekilde Sorunsuz Çalışmıştır)
 Not: Başka Terminallerde PowerShell, Cmd.exe Vb. Çalışacağını Umuyorum (Gereken İşlemleri Yani "Nasıl Çalışır" Takip Ederek Sorunsuz Çalıştırabilirsiniz)
+Not: İlk Yükleyenler İçin Termux Kurulum Menüsünden Kurulum Yapmaları Önerilir
 
 Not: Yasa Dışı Kullanım Sorumluluk Kabul Etmem
