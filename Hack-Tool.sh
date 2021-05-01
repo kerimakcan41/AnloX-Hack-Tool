@@ -186,3 +186,4 @@ cd $HOME/AnloX-Hack-Tool
 bash Hack-Tool.sh
 fi
 #Diğer Bölüm Son
+#Fyuka'S
